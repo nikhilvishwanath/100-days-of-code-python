@@ -12,6 +12,12 @@ Some powerful datastructures to make your code less buggy and simple.
  3. Counter
  4. deque
  
-# Day 4 : Data structures
+# Day 4 : Data structures (Classes and objects)
+https://www.geeksforgeeks.org/python-classes-and-objects/
+https://sahandsaba.com/python-classes-metaclasses.html (python 2)
+
+jupyter notebook consist of basic, advanced class methods and metaclasses.
+
+
 
 
