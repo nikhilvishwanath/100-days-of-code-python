@@ -14,10 +14,13 @@ Some powerful datastructures to make your code less buggy and simple.
  
 # Day 4 : Data structures (Classes and objects)
 https://www.geeksforgeeks.org/python-classes-and-objects/
+
 https://sahandsaba.com/python-classes-metaclasses.html (python 2)
 
 jupyter notebook consist of basic, advanced class methods and metaclasses.
 
+# Day 5 : Iterators, Generators, itertools
+https://sahandsaba.com/python-iterators-generators.html
 
 
 
