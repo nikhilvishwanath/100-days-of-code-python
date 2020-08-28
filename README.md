@@ -20,7 +20,7 @@ https://sahandsaba.com/python-classes-metaclasses.html (python 2)
 jupyter notebook consist of basic, advanced class methods and metaclasses.
 
 # Day 5: Iterators, Generators, itertools
-https://sahandsaba.com/python-iterators-generators.html
+https://www.geeksforgeeks.org/iterators-in-python/
 
 
 
