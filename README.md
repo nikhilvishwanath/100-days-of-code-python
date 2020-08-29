@@ -22,5 +22,6 @@ jupyter notebook consist of basic, advanced class methods and metaclasses.
 # Day 5: Iterators, Generators, itertools
 https://www.geeksforgeeks.org/iterators-in-python/
 
+# Day 6: Writing Binary Search Tree using python classes
 
 
