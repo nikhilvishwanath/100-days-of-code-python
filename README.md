@@ -24,4 +24,7 @@ https://www.geeksforgeeks.org/iterators-in-python/
 
 # Day 6: Writing Binary Search Tree using python classes
 
+# Day 7: BST operations (insertion and printing)
+Introduction to Algorithms 3rd ed. page 294
+https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/
 
