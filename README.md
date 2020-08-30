@@ -27,7 +27,8 @@ With tree we are introducing new data structure. Each instance (point) in this n
 1. value at that node
 2. left child. 
 3. right child.
-children are again points of our newly defined datastructure. so each children will have its own value and two children.
+
+Children are again points of our newly defined datastructure. so each children will have its own value and two children.
 Lets call this point a node in the tree. As per the three required things node will look like this in python.
 ```
 class Node(object):
