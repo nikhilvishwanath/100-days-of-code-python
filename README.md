@@ -23,6 +23,19 @@ jupyter notebook consist of basic, advanced class methods and metaclasses.
 https://www.geeksforgeeks.org/iterators-in-python/
 
 # Day 6: Writing Binary Search Tree using python classes
+With tree we are introducing new data structure. Each instance (point) in this newly created data structure consist of three things.
+1. value at that node
+2. left child. 
+3. right child.
+children are again points of our newly defined datastructure. so each children will have its own value and two children.
+Lets call this point a node in the tree. As per the three required things node will look like this in python.
+'''
+class Node(object):
+    def __init__(self, key = None):
+        self.key = key
+        self.left = None
+        self.right = None 
+'''
 
 # Day 7: BST operations (insertion and printing)
 Introduction to Algorithms 3rd ed. page 294.
