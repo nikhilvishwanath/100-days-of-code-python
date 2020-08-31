@@ -43,3 +43,6 @@ Introduction to Algorithms 3rd ed. page 294.
 
 https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/
 
+# Day 8: Balancing the BST
+
+
