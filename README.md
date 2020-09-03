@@ -44,5 +44,10 @@ Introduction to Algorithms 3rd ed. page 294.
 https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/
 
 # Day 8: Balancing the BST
+https://www.geeksforgeeks.org/self-balancing-binary-search-trees-comparisons/
+We will introduce new property to the class, height. Based on the difference in the heights of left and right nodes we can determine whether the tree balanced or not. We will balance the trees using right rotation and left rotation 
+# Day 9: 
+
+# Day 10:
 
 
