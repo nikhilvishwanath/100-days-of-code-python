@@ -48,7 +48,7 @@ https://www.geeksforgeeks.org/self-balancing-binary-search-trees-comparisons/
 We will introduce new property to the class, height. Based on the difference in the heights of left and right nodes we can determine whether the tree balanced or not. We will balance the trees using right rotation and left rotation 
 # Day 9: 
 
-# Randomly Learning searching and learning things was seemed to be inefficient, so I will be following the books Learn "Python the hard way" and "Think Python"
+### Randomly Learning searching and learning things was seemed to be inefficient, so I will be following the books Learn "Python the hard way" and "Think Python"
 # Day 10: 
 
 # Day 11:
