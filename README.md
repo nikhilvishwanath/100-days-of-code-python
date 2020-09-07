@@ -55,5 +55,9 @@ We will introduce new property to the class, height. Based on the difference in 
 
 # Day 12: 
 
+# Day 13:
+
+# Day 14: 
+
 
 
