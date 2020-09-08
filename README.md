@@ -49,11 +49,9 @@ We will introduce new property to the class, height. Based on the difference in 
 
 # Day 9: Printing and variables (advanced)
 
+# Day 10: Generators
 
-### Randomly Learning searching and learning things was seemed to be inefficient, so I will be following the books Learn "Python the hard way" and "Think Python"
-# Day 10: 
-
-# Day 11:
+# Day 11: Decorators
 
 # Day 12: 
 
@@ -62,3 +60,6 @@ We will introduce new property to the class, height. Based on the difference in 
 # Day 14: 
 
 # day 15:
+
+# Day 16:
+
