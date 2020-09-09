@@ -47,7 +47,8 @@ https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/
 https://www.geeksforgeeks.org/self-balancing-binary-search-trees-comparisons/
 We will introduce new property to the class, height. Based on the difference in the heights of left and right nodes we can determine whether the tree balanced or not. We will balance the trees using right rotation and left rotation 
 
-# Day 9: Printing and variables (advanced)
+# Day 9: Printing (advanced)
+printing and formatting in python is covered in this tutorial. There are many things in print function which are unknown to most of the people. I have compiled them with example in this notebook. 
 
 # Day 10: Generators
 
